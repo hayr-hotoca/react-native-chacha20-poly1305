@@ -1,6 +1,6 @@
 {
   "name": "react-native-chacha20-poly1305",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ChaCha20-Poly1305 encryption/decryption for React Native. Native implementations make sure it has the fastest performance.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -39,17 +39,27 @@
     "clean": "del-cli android/build example/android/build example/android/app/build example/ios/build"
   },
   "keywords": [
-    "react-native",
-    "ios",
-    "android"
+    "chacha",
+    "chacha20",
+    "20",
+    "poly1305",
+    "poly",
+    "1305",
+    "7539",
+    "rfc7539",
+    "rfc",
+    "encryption",
+    "cipher",
+    "secure",
+    "vault"
   ],
-  "repository": "https://github.com/hayr-hotoca/react-native-chacha20-poly1305",
+  "repository": "https://github.com/1limxapp/react-native-chacha20-poly1305",
   "author": "hayr-hotoca <support@1limx.com> (https://github.com/hayr-hotoca)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hayr-hotoca/react-native-chacha20-poly1305/issues"
+    "url": "https://github.com/1limxapp/react-native-chacha20-poly1305/issues"
   },
-  "homepage": "https://github.com/hayr-hotoca/react-native-chacha20-poly1305#readme",
+  "homepage": "https://github.com/1limxapp/react-native-chacha20-poly1305#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

@@ -1,6 +1,10 @@
 # react-native-chacha20-poly1305
 
-ChaCha20-Poly1305 encryption/decryption for React Native.  Native implementations make sure it has the fastest performance.
+
+
+ChaCha20-Poly1305 encryption/decryption for React Native.\
+Encrypt binary and text-like data with ease.\
+Native implementations make sure it has the fastest performance.
 
 # Requirements
 iOS >= 13.0\
